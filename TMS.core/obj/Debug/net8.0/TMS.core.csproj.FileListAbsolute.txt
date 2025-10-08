@@ -1,0 +1,14 @@
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\bin\Debug\net8.0\TMS.core.deps.json
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\bin\Debug\net8.0\TMS.core.runtimeconfig.json
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\bin\Debug\net8.0\TMS.core.dll
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\bin\Debug\net8.0\TMS.core.pdb
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.csproj.AssemblyReference.cache
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.AssemblyInfoInputs.cache
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.AssemblyInfo.cs
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.csproj.CoreCompileInputs.cache
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.dll
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\refint\TMS.core.dll
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.pdb
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\TMS.core.genruntimeconfig.cache
+D:\CsharpFundamentals\TaskManagementSystem\TMS.core\obj\Debug\net8.0\ref\TMS.core.dll
